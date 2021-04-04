@@ -9,6 +9,6 @@
 ### Repo for task scripts and related files submitted for eYantra Robotics Competition under Vitarana Drone theme.
 Designed, programmed and implemented a solution to the problem statement pertaining to the VITARANA DRONE theme. Used ROS to simulate drone package deliveries and returns over a spawned arena in Gazebo. Final solution includes PID control over position and attitude, integrated bug algorithm, marker detection, dynamic grid mapping using floating numbers, hybrid A* path planning with smoothening, unique height control navigation algorithm for obstacle avoidance and variable yaw control to optimize the drone's trajectory and speed.
 
-### Video of final solution : https://drive.google.com/file/d/17BZ4uRYxbAauL9SedLcMHeekc-cQiBb2/view?usp=sharing
+#### Video of final solution : https://drive.google.com/file/d/17BZ4uRYxbAauL9SedLcMHeekc-cQiBb2/view?usp=sharing
 
-### eYRC'21 Vitarana Drone Grand Finale : https://youtu.be/y6G7KIQ06BY?t=3271
+#### eYRC'21 Vitarana Drone Grand Finale : https://youtu.be/y6G7KIQ06BY?t=3271
