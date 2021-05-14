@@ -3,7 +3,7 @@
 ## Team JAGG - VD_2537
 - Jai Kesav K R
 - Aswin Sreekumar
-- Girish K
+- K Girish
 - Greeshwar R S
 
 ### Repo for task scripts and related files submitted for eYantra Robotics Competition under Vitarana Drone theme.
