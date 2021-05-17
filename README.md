@@ -27,5 +27,4 @@ Designed, programmed and implemented a solution to the problem statement pertain
 ### Marker detection
 
 ## Gallery
-![finals](https://user-images.githubusercontent.com/63254914/118492011-33825680-b73d-11eb-83ad-a3df7019affa.png)
 
