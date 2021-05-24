@@ -15,16 +15,4 @@ Designed, programmed and implemented a solution to the problem statement pertain
 #### [Video of final solution](https://drive.google.com/file/d/17BZ4uRYxbAauL9SedLcMHeekc-cQiBb2/view?usp=sharing)
 #### [eYRC'21 Vitarana Drone Grand Finale](https://youtu.be/y6G7KIQ06BY?t=3271)
 
-## Problem statement
-
-## Solution in brief
-### PID tuning
-### Bug algorithm
-### Variable yaw control
-### Mapping
-### Path planning
-### Navigation across arena
-### Marker detection
-
-## Gallery
 
